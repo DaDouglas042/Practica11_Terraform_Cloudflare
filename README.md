@@ -43,3 +43,5 @@ terraform destroy -auto-approve
 
 > Las variables sensibles se configuran en **Terraform Cloud** (workspace
 > variables) o en `terraform.tfvars` (no versionado, ver `.gitignore`).
+
+> Despliegue gestionado por HCP Terraform (workspace: Practica11_Terraform_Cloudflare, rama master, directorio terraform/).
