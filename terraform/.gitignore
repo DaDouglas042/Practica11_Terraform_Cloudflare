@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfvars.json
+crash.log
+
+# El lock file SÍ se versiona (recomendado por HashiCorp)
+# .terraform.lock.hcl
